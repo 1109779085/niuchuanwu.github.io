@@ -1,7 +1,7 @@
 const profilesData = [
     {
         id: 1,
-        name: "张先生",
+        name: "尹迪康1号",
         gender: "male",
         age: 28,
         occupation: "软件工程师",
@@ -29,7 +29,7 @@ const profilesData = [
     // },
     {
         id: 3,
-        name: "王先生",
+        name: "尹迪康2号",
         gender: "male",
         age: 32,
         occupation: "金融分析师",
@@ -57,7 +57,7 @@ const profilesData = [
     // },
     {
         id: 5,
-        name: "陈先生",
+        name: "尹迪康3号",
         gender: "male",
         age: 30,
         occupation: "产品经理",
